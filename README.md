@@ -14,8 +14,7 @@ Brady's favorite thing is a good bone. And he loves to run. Help Brady move to c
 - Have random other objects/the obstacle appear.
 - Allow user to move character with arrow keys around field. 
 - Keep track of how many bones the dog collects.
-- Keep track and subtract points if dog collects other objects
-- Make use of sounds and ability to turn them off
+- Keep track and subtract points if dog collects other objects.
 
 ## Wireframe 
 ![Boneyard wireframe](boneyard-wireframe.png)
@@ -24,6 +23,7 @@ Brady's favorite thing is a good bone. And he loves to run. Help Brady move to c
 - Move background.
 - Score and win by collecting bones within time period.
 - Use of Canvas.
+- Make use of sounds and ability to turn them off.
 - Allow user to upload pic of own dog to use as the character.
 - Responsive with ability to move dog with touch.   
 
